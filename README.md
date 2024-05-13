@@ -1,2 +1,2 @@
 # JAVA LAB NOTES
-Java notes with proper examples to revise complete Java language in less time.
+## Java lab notes with proper examples to revise complete Java language in less time.
