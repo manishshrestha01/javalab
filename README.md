@@ -2,11 +2,7 @@
 
 Java lab notes with proper examples to revise complete Java language in less time.
 
-------
-### Java
-
--------
-![Java Logo](https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png)
+### Java     ![Java Logo](https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png)
 
 
 Java is a programming language and a platform.
