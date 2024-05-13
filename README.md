@@ -26,9 +26,12 @@ Platform: Any hardware or software environment in which a program runs, is known
     Robotics
     Games, etc.
 
---------
+------
+### Contents
 
-# Contents
+-------
+
+
 | Contents Lab 1 |
 |---------|
 [hello.java](https://github.com/manishshrestha01/javalab/blob/main/hello.java)
@@ -39,8 +42,10 @@ Platform: Any hardware or software environment in which a program runs, is known
 [Super.java](https://github.com/manishshrestha01/javalab/blob/main/Super.java)
 [final.java](https://github.com/manishshrestha01/javalab/blob/main/final.java)
 
+------
 ### Types of Java Applications
 
+-------
 There are mainly 4 types of applications that can be created using Java programming:
 
 ##### 1) Standalone Application
