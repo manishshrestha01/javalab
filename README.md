@@ -30,17 +30,15 @@ Platform: Any hardware or software environment in which a program runs, is known
 ### Contents
 
 -------
-
-
-| Contents Lab 1 |
-|---------|
-[hello.java](https://github.com/manishshrestha01/javalab/blob/main/hello.java)
-[inheritance.java](https://github.com/manishshrestha01/javalab/blob/main/inheritance.java)
-[overloading.java](https://github.com/manishshrestha01/javalab/blob/main/overloading.java)
-[overriding.java](https://github.com/manishshrestha01/javalab/blob/main/overriding.java)
-[conditional.java](https://github.com/manishshrestha01/javalab/blob/main/conditional.java)
-[Super.java](https://github.com/manishshrestha01/javalab/blob/main/Super.java)
-[final.java](https://github.com/manishshrestha01/javalab/blob/main/final.java)
+| **Contents Lab 1**                                                                         | **Contents Lab 2**                   |
+|--------------------------------------------------------------------------------------------|--------------------------------------|
+| [hello.java](https://github.com/manishshrestha01/javalab/blob/main/hello.java)             | [hello.java](https://github.com/manishshrestha01/javalab/blob/main/hello.java)    |
+| [inheritance.java](https://github.com/manishshrestha01/javalab/blob/main/inheritance.java) |   |
+| [overloading.java](https://github.com/manishshrestha01/javalab/blob/main/overloading.java) |   |
+| [overriding.java](https://github.com/manishshrestha01/javalab/blob/main/overriding.java)   |   |
+| [conditional.java](https://github.com/manishshrestha01/javalab/blob/main/conditional.java) |   |
+| [Super.java](https://github.com/manishshrestha01/javalab/blob/main/Super.java)             |   |
+| [final.java](https://github.com/manishshrestha01/javalab/blob/main/final.java)             |   |
 
 ------
 ### Types of Java Applications
