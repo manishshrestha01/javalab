@@ -1,7 +1,7 @@
 # JAVA LAB NOTES
 #### Java lab notes with proper examples to revise complete Java language in less time.
 # Contents
-| Contents|
+| Contents Lab 1 |
 |---------|
 [hello.java](https://github.com/manishshrestha01/javalab/blob/main/hello.java)
 [inheritance.java](https://github.com/manishshrestha01/javalab/blob/main/inheritance.java)
