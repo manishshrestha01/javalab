@@ -40,9 +40,10 @@ Platform: Any hardware or software environment in which a program runs, is known
 | [Super.java](https://github.com/manishshrestha01/javalab/blob/main/Super.java)             |   |
 | [final.java](https://github.com/manishshrestha01/javalab/blob/main/final.java)             | [LAB 2 ALL PDF FILES](https://github.com/manishshrestha01/javalab/blob/main/LAB%202.pdf)  
 
-| **Contents Lab 3 and 4**                   |
+| **Contents Lab Files**                   |
 |--------------------------------------|
-| [DialogExample.java](https://github.com/manishshrestha01/javalab/blob/main/DialogExample.java)  |
+| [LAB 3 ALL PDF FILES](https://github.com/manishshrestha01/javalab/blob/main/LAB%202.pdf)  |
+| [LAB 4 ALL PDF FILES](https://github.com/manishshrestha01/javalab/blob/main/LAB%202.pdf)  |
 
 
 ------
