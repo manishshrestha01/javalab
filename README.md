@@ -42,7 +42,7 @@ Platform: Any hardware or software environment in which a program runs, is known
 
 | **Contents Lab Files**                   | **Research Files**                   |
 |--------------------------------------|--------------------------------------|
-| [LAB 3 ALL PDF FILES](https://github.com/manishshrestha01/javalab/blob/main/Lab%203.pdf)  | [Research Word]([https://github.com/manishshrestha01/javalab/blob/main/LAB%202.pdf](https://github.com/manishshrestha01/javalab/blob/main/A%20Proposal%20on%20Payment%20Gateway.docx))  |
+| [LAB 3 ALL PDF FILES](https://github.com/manishshrestha01/javalab/blob/main/Lab%203.pdf)  | [Research Word]([https://github.com/manishshrestha01/javalab/blob/main/A%20Proposal%20on%20Payment%20Gateway.docx](https://github.com/manishshrestha01/javalab/blob/main/A%20Proposal%20on%20Payment%20Gateway.docx))  |
 | [LAB 4 ALL PDF FILES](https://github.com/manishshrestha01/javalab/blob/main/LAB%202.pdf)  | [Research PPTX]([https://github.com/manishshrestha01/javalab/blob/main/LAB%202.pdf](https://github.com/manishshrestha01/javalab/blob/main/research.pptx))  |
 
 
